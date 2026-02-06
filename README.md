@@ -1,7 +1,7 @@
 # Git Practice
 
 ## Article
-[The hardest part of building software is not coding — it’s requirements](https://stackoverflow.blog/2023/12/29/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
+[Computer Science Graduates Face Worst Job Market in Decades](https://www.finalroundai.com/blog/computer-science-graduates-face-worst-job-market-in-decades)
 
 ## Thoughts
 There was a time, long before the influx of CS majors and the rise of AI—back when I was still in middle or high school—when I was among very few of my peers who wanted to pursue a career in computer science. Then, around the time I entered college, suddenly everyone else started talking about it. Many people around me who had never shown interest in the field or knew much about it began majoring in CS.
