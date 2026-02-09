@@ -1,5 +1,4 @@
 # Git Practice
-
 ## Article
 [Computer Science Graduates Face Worst Job Market in Decades](https://www.finalroundai.com/blog/computer-science-graduates-face-worst-job-market-in-decades)
 
